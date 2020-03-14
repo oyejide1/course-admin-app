@@ -1,0 +1,19 @@
+{
+  "name": "course-admin-app",
+  "version": "1.0.0",
+  "description": "react course admin app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyejide1/course-admin-app.git"
+  },
+  "author": "oluwatobi oyejide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyejide1/course-admin-app/issues"
+  },
+  "homepage": "https://github.com/oyejide1/course-admin-app#readme"
+}
