@@ -1,0 +1,1 @@
+An admin pannel to mannage student courses
