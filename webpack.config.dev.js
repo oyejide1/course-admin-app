@@ -27,14 +27,13 @@ module.exports = {
   },
   plugins: [
     new HtmlWebPackPlugin({
-      template: "src/index.html",
-      favicon: "src/favicon.ico"
+      template: "src/index.html"
     })
   ],
   module: {
     rules: [
       {
-        test:/\.(js | jsx)$/,
+        test:/\.(js||jsx)$/,
         exclude: /node_modules/,
         use: ['babel-loader']
       },

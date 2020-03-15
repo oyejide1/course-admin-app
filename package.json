@@ -56,6 +56,9 @@
       "babel-preset-react-app"
     ]
   },
+  "engines": {
+    "node": ">=8"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oyejide1/course-admin-app.git"
